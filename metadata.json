@@ -1,0 +1,7 @@
+{
+  "name": "WealthWise AI",
+  "description": "A world-class AI agent designed to help you identify, plan, and execute real-world money-making opportunities, from side hustles to career optimization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
